@@ -4,6 +4,12 @@ color:
   lightness: 0.7198344795033336
   saturation: 0.7516153086908162
   rhythmicContrast: 0.5852135811001062
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 github: true
 opengraph:
   type: 'https://www.facebook.com/KyawKyawThetOfficial/'
