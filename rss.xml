@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ ေကာင္းနိုးရာရာမ်ား]]></title>
+        <description><![CDATA[ ေကာင္းနိုးရာရာမ်ား]]></description>
+        <link>http://kyawthet.online/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 14 Feb 2017 01:48:10 GMT</lastBuildDate>
+        <atom:link href="http://kyawthet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Panorama Sizing and Design Guide]]></title>
+            <description><![CDATA[<article><h1>Panorama Sizing and Design Guide</h1><p>Panorama Management and Logging Overview This document is being updated for PAN-OS 8.0 The Panorama solution is comprised of two overall functions: Device Management and Log Collection/Reporting. A brief overview of these two main functions follow: Device Management: This includes activiti...</p><img src="https://twzvq79624.i.lithium.com/t5/image/serverpage/image-id/2494i2100B129D270CE3E?v=1.0"></article>]]></description>
+            <link>https://live.paloaltonetworks.com/t5/Management-Articles/Panorama-Sizing-and-Design-Guide/ta-p/72181</link>
+            <guid isPermaLink="false">22d42660-d65e-4525-943f-f51cf6b1bae1</guid>
+            <pubDate>Tue, 14 Feb 2017 01:48:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
