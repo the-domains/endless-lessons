@@ -4,16 +4,16 @@ description: |-
   The Panorama solution is comprised of two overall functions:
   Device Management and Log Collection/Reporting. A brief overview of these two
   main functions follow:
-dateModified: '2017-02-14T02:51:21.607Z'
-datePublished: '2017-02-14T02:51:23.909Z'
+dateModified: '2017-02-14T02:52:57.584Z'
+datePublished: '2017-02-14T02:53:00.255Z'
 title: 'Panorama Sizing and Design '
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-14-panorama-sizing-and-design.md
 starred: false
 datePublishedOriginal: '2017-02-14T02:51:23.909Z'
-sourcePath: _posts/2017-02-14-panorama-sizing-and-design.md
 url: panorama-sizing-and-design/index.html
 _type: Article
 
