@@ -4,9 +4,16 @@
         <description><![CDATA[KT's Notes]]></description>
         <link>http://kyawthet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Feb 2017 02:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2017 14:26:49 GMT</lastBuildDate>
         <atom:link href="http://kyawthet.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Feb 2017 02:53:02 GMT</pubDate>
+        <pubDate>Wed, 15 Feb 2017 14:26:47 GMT</pubDate>
+        <item>
+            <title><![CDATA[Set Up the Panorama Virtual Appliance]]></title>
+            <description><![CDATA[<article><h1>Set Up the Panorama Virtual Appliance</h1><p>The Panorama virtual appliance consolidates the Panorama management and logging functions into a single virtual appliance. This solution enables use of an existing VMware virtual infrastructure to easily deploy and centrally administer and monitor the Palo Alto Networks firewalls in your network as described in the following sections:</p><img src="https://www.paloaltonetworks.com/etc/clientlibs/pan/img/logo-blue-medium.png"></article>]]></description>
+            <link>https://www.paloaltonetworks.com/documentation/60/panorama/panorama_adminguide/set-up-panorama/set-up-the-panorama-virtual-appliance#94096</link>
+            <guid isPermaLink="false">06437349-e91d-4d36-baf3-571049bca781</guid>
+            <pubDate>Wed, 15 Feb 2017 14:26:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Panorama Sizing and Design ]]></title>
             <description><![CDATA[<h1>Panorama Sizing and Design </h1>,<h2><strong>Panorama Management and Logging Overview</strong></h2>,<p>The Panorama solution is comprised of two overall functions:
